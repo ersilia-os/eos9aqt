@@ -1,9 +1,9 @@
 {
-    "Identifier": "",
-    "Slug": "",
-    "Status": "",
-    "Title": "",
-    "Description": "",
+    "Identifier": "eos9aqt",
+    "Slug": "delfta-qm",
+    "Status": "In progress",
+    "Title": "DelFTa quantum mechanical properties prediction",
+    "Description": "DelFTa predicts quantum-mechanical properties of drug-like molecules. It uses 3D message-passing neural networks trained on the QMugs dataset of quantum-mechanical properties, and can predict formation and orbital energies, dipoles, Mulliken partial charges and Wiberg bond orders.",
     "Mode": "",
     "Task": [],
     "Input": [],
@@ -12,8 +12,8 @@
     "Output Type": [],
     "Output Shape": "",
     "Interpretation": "",
-    "Tag": [],
-    "Publication": "",
-    "Source Code": "",
-    "License": ""
+    "Tag": null,
+    "Publication": "https://pubs.rsc.org/en/content/articlehtml/2022/cp/d2cp00834c",
+    "Source Code": "https://github.com/josejimenezluna/delfta",
+    "License": "GPL-3.0"
 }
